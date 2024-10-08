@@ -1,0 +1,11 @@
+Model Information:
+* title:	Ramen Stand
+* source:	https://sketchfab.com/3d-models/ramen-stand-0291d6336001499aa7d61aec0603a647
+* author:	ryanwalker (https://sketchfab.com/ryanwalker)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Ramen Stand" (https://sketchfab.com/3d-models/ramen-stand-0291d6336001499aa7d61aec0603a647) by ryanwalker (https://sketchfab.com/ryanwalker) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
