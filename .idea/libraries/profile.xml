@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="profile">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/client/public/profile/japanese_sushi_stand.zip!/" />
+      <root url="jar://$PROJECT_DIR$/client/public/profile/cerveza-pilsen-stand.zip!/" />
+      <root url="jar://$PROJECT_DIR$/client/public/profile/512_form_img.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
